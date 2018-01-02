@@ -12,7 +12,8 @@ An application of Block Chain to electronic medical records.
 > We should have a section where we group the useful links.
 
 * [Markdown cheat sheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
-* [Building an Blockchain Advent Calendar]()
+* [A very interesting podcast describing the application of blockchain, on paper, in a prision](https://www.npr.org/sections/money/2017/02/10/514577243/episode-753-blockchain-gang)
+* [Building an Blockchain Advent Calendar](https://hackernoon.com/24-blocks-building-an-blockchain-advent-calendar-6bf8d5b74ac0)
 * [Understanding The Basics of Blockchain and Cryptocurrencies](https://hackernoon.com/the-ultimate-guide-to-understanding-blockchain-and-cryptocurrencies-f37cf4c0043)
 --------
 
