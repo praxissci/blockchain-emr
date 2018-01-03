@@ -7,14 +7,15 @@ An application of Block Chain to electronic medical records.
 
 ## Eddie
 ## Links:
-> I have not read any of the following articles, I just collected them over the holidays.  If someone reads them before me, please let me know if they found them useful.
 
-> We should have a section where we group the useful links.
+> ... in health care they became known as a means to pay ransom for institutions that had their data “kidnapped” (ie, encrypted by malicious users who request payment to unencrypt the data). [Link](https://academic.oup.com/jamia/article/24/6/1211/4108087)
 
 * [Markdown cheat sheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
 * [A very interesting podcast describing the application of blockchain, on paper, in a prision](https://www.npr.org/sections/money/2017/02/10/514577243/episode-753-blockchain-gang)
+* [Understanding The Basics of Blockchain and Cryptocurrencies](https://hackernoon.com/the-ultimate-guide-to-understanding-blockchain-and-cryptocurrencies-f37cf4c0043) - This is actually very useful to understand the basics of a blockchain.
+* [Healthcare Data Gateways: Found Healthcare Intelligence on Blockchain with Novel Privacy Risk Control](https://link.springer.com/article/10.1007/s10916-016-0574-6) - Very similar concept to what we are exploring in this project.
+* [This document describes the five major advantages of Block Chain in medical records](https://academic.oup.com/jamia/article/24/6/1211/4108087)
 * [Building an Blockchain Advent Calendar](https://hackernoon.com/24-blocks-building-an-blockchain-advent-calendar-6bf8d5b74ac0)
-* [Understanding The Basics of Blockchain and Cryptocurrencies](https://hackernoon.com/the-ultimate-guide-to-understanding-blockchain-and-cryptocurrencies-f37cf4c0043)
 --------
 
 ## History:
