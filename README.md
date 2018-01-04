@@ -1,7 +1,8 @@
 # blockchain-emr
 An application of Block Chain to electronic medical records.
 
---------
+---
+
 ## Hypothesis:
 # Applying the concepts behind *blockchain*, we can create a computer application stores de-identified medical data which can be available to any researchers to work with.
 
@@ -16,7 +17,11 @@ An application of Block Chain to electronic medical records.
 * [Healthcare Data Gateways: Found Healthcare Intelligence on Blockchain with Novel Privacy Risk Control](https://link.springer.com/article/10.1007/s10916-016-0574-6) - Very similar concept to what we are exploring in this project.
 * [This document describes the five major advantages of Block Chain in medical records](https://academic.oup.com/jamia/article/24/6/1211/4108087)
 * [Building an Blockchain Advent Calendar](https://hackernoon.com/24-blocks-building-an-blockchain-advent-calendar-6bf8d5b74ac0)
---------
+
+## Comments:
+Block Chain can support the CliniQuick model where past data cannot be modified, while the information in the last visit can.  Since modifying previous blocks is so expensive, editing of old data would be prohibitive.  Modifying the last record requires less expense.
+
+---
 
 ## History:
 
